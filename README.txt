@@ -1,1 +1,1 @@
-vless://6f6445da-a752-07d0-8ae1-1eb1110ddcf4@212.193.153.187:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&echfq=none&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#%F0%9F%87%B7%F0%9F%87%BA%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%D1%8B+-+TG%3A+Kocmoc_Project
+
